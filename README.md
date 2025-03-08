@@ -50,7 +50,7 @@ The **Rusty Store Inventory Management System** is a command-line application de
    cargo run
 
 4. ```bash
-   cargo test -
+   cargo test 
 
 
 
