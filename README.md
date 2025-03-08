@@ -42,3 +42,15 @@ The **Rusty Store Inventory Management System** is a command-line application de
    ```bash
    git clone https://github.com/echaligha25/tore-Inventory-Management-System.git
    cd rusty-store-inventory
+
+2. ```bash
+   cargo build --release
+
+3. ```bash
+   cargo run
+
+4. ```bash
+   cargo test -
+
+
+
